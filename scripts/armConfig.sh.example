@@ -1,0 +1,2 @@
+export QTDIR=/opt/qt-beaglebone/Qt-5.2.1/
+export GCCDIR=/opt/qt-beaglebone/gcc-linaro-arm-linux-gnueabihf-4.8-2014.04_linux/bin
